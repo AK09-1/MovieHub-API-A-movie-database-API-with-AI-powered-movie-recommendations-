@@ -1,0 +1,2 @@
+# MovieHub-API-A-movie-database-API-with-AI-powered-movie-recommendations-
+Developed a full-stack RESTful API for managing movie data using Node.js, Express.js, and MongoDB with Mongoose ODM, implementing complete CRUD functionality. Integrated OpenAI’s GPT model to deliver AI-driven personalized movie recommendations based on user input. Followed MVC architecture principles to ensure scalability and maintainability.
