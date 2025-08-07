@@ -8,24 +8,24 @@ Built with **Node.js, MongoDB, and Mongoose ODM**, and integrated with **OpenAI'
 ---
 
 ## 📑 Table of Contents
-- [Features](#Features)
-- [Tech Stack](#Tech-Stack)
-- [Installation](#Installation)
-- [Usage](#Usage)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [OpenAI Integration](#openai-integration)
-- [License](#license)
+
 
 ---
 
-## ✨ **Features**
+## Features
 - Create, Read, Update, and Delete movies.
 - Get movie recommendations using **OpenAI's ChatGPT**.
 - RESTful API structure for easy integration with any frontend or mobile app.
 
 ---
 
-## 🛠 **Tech Stack**
+## Tech Stack
 - **Node.js** – Backend runtime
 - **Express.js** – Server framework
 - **MongoDB** – Database
@@ -34,7 +34,7 @@ Built with **Node.js, MongoDB, and Mongoose ODM**, and integrated with **OpenAI'
 
 ---
 
-## 🚀 **Installation**
+## Installation
 
  ### 1. **Clone Repository**
 
@@ -53,7 +53,7 @@ Built with **Node.js, MongoDB, and Mongoose ODM**, and integrated with **OpenAI'
 
 ---
 
-## **Usage**
+## Usage
 
 1. **Start the server:**
 
@@ -63,7 +63,7 @@ Built with **Node.js, MongoDB, and Mongoose ODM**, and integrated with **OpenAI'
 
 ---
 
-## **API Endpoints**
+## API Endpoints
 
 - **GET /movies:** Get all movies.
 - **GET /movies/:id:** Get a specific movie.
@@ -73,12 +73,8 @@ Built with **Node.js, MongoDB, and Mongoose ODM**, and integrated with **OpenAI'
 
 ---
 
-## **OpenAI Integration**
+## OpenAI Integration
 
 **The application integrates with OpenAI's ChatGPT for movie recommendations. Ensure your OpenAI API key is set up.**
 
----
 
-## **License**
-
-**This project is licensed under the MIT License - see the LICENSE file for details.**
